@@ -1,7 +1,8 @@
 # FbxAnimUtilityKit-
 FbxAnimUtilityKit is a collection of lightweight Unity Editor tools designed to streamline working with animation clips inside FBX files. It helps developers duplicate, migrate, and modify animations more efficiently during the asset import and setup process.
 
-Features
+# Features:
+
 🔹 Duplicate FBX Animations: Create independent .asset copies of embedded animation clips.
 
 🔹 Copy & Paste Animation Events: Easily transfer animation events between clips.
